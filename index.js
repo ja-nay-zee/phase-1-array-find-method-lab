@@ -4,9 +4,6 @@
 
 // console.log()
 
-// function superbowlWin(element) {
-//     return (element === year + result=== "W")
-// }
 
 
 superbowlWin = (record) => {
